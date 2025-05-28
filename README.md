@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F7gCOgRDEpxcAAAAC%2Fdisney-dance.gif&f=1&nofb=1&ipt=53f83c84a612db6e20fd54bd0dff9849e2d2079b53f8ca83d4123e1ab03693d8" align="right" width="15%"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F18%2F56%2Fca%2F1856ca09f00af594fa3985ec17d8ba96.gif&f=1&nofb=1&ipt=3b01f4ab72fbe9358e9a7f83951b3d60fef5c2e8b1391391df088214ea543986" align="right" width="15%"/>
   <samp>
     <br>Soy una desarrolladora Web y creadora de contenidos digitales.
     <br>
