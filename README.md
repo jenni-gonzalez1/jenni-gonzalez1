@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F18%2F56%2Fca%2F1856ca09f00af594fa3985ec17d8ba96.gif&f=1&nofb=1&ipt=3b01f4ab72fbe9358e9a7f83951b3d60fef5c2e8b1391391df088214ea543986" align="right" width="15%"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F8422821f6d71ad6deecfb7b66dd7ab13%2Ftenor.gif%3Fitemid%3D13002862&f=1&nofb=1&ipt=53e215c267a799e584b04fb4b8e0291bd5193d945836cf06019bb60f835868d4" align="right" width="15%"/>
   <samp>
     <br>Soy una desarrolladora Web y creadora de contenidos digitales.
     <br>
@@ -14,7 +14,7 @@
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+      #html, #css, #git, #react, #python,#SQL, #Bash, #linux
      </samp>
     <br>
   </p>
