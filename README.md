@@ -8,7 +8,7 @@
     <br>🔹 Actualmente estoy aprendiendo REACT
     <br>🔹 Programación en python con raspberry pi pico W
     <br>🔹 Me interesa el desarrollo de aplicaciones web.
-    <br>🔹 https://jossuefuentes.space/
+    <br>🔹 
     </samp>
    <br>
   <br>
