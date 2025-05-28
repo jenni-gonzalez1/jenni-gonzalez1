@@ -6,7 +6,7 @@
   <samp>
     <br>Soy una desarrolladora Web y creadora de contenidos digitales.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo programacion orientada a obejtos
+    <br>🔹 Actualmente estoy aprendiendo programacion orientada a objetos
     <br>🔹 Programación en java y html
     <br>🔹 Me interesa el desarrollo de aplicaciones web.
     <br>🔹 
